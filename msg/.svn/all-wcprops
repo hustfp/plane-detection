@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tuc-ros-pkg/!svn/ver/1/trunk/stacks/tuc_pelican/kinect_utils/msg
+END
+flightCommand.msg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tuc-ros-pkg/!svn/ver/1/trunk/stacks/tuc_pelican/kinect_utils/msg/flightCommand.msg
+END
+kinectPose.msg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tuc-ros-pkg/!svn/ver/1/trunk/stacks/tuc_pelican/kinect_utils/msg/kinectPose.msg
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tuc-ros-pkg/!svn/ver/4/trunk/stacks/tuc_pelican/kinect_utils/include/kinect_utils
+END
+helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tuc-ros-pkg/!svn/ver/4/trunk/stacks/tuc_pelican/kinect_utils/include/kinect_utils/helper.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tuc-ros-pkg/!svn/ver/1/trunk/stacks/tuc_pelican/kinect_utils/include/kinect_utils/timer.h
+END
+corridor_extraction.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tuc-ros-pkg/!svn/ver/3/trunk/stacks/tuc_pelican/kinect_utils/include/kinect_utils/corridor_extraction.h
+END
+resamplePointCloud.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tuc-ros-pkg/!svn/ver/1/trunk/stacks/tuc_pelican/kinect_utils/include/kinect_utils/resamplePointCloud.h
+END
+visualObstacleAvoidance.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tuc-ros-pkg/!svn/ver/1/trunk/stacks/tuc_pelican/kinect_utils/include/kinect_utils/visualObstacleAvoidance.h
+END
